@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `bid` (
 --
 -- Dumping data for table `bid`
 --
-/*hi fergus im klaus*/
+/*hi fergus im klaus KKB*/
 INSERT INTO `bid` (`BID`, `status`, `UID`, `WID`) VALUES
 (1, 'Approved', 4, 1),
 (2, 'Pending', 5, 2),
