@@ -1,0 +1,3 @@
+1) Upload their files to this repo or send me and i upload
+2) Clone the repo to your own computers and edit the cloned files
+3) Make your own branch and push to it instead of editing in the main branch.
